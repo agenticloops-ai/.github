@@ -37,3 +37,6 @@ Explore our open-source repos — clone, run, and build. If you find this useful
 | [**agentic-apps-internals**](https://github.com/agenticloops-ai/agentic-apps-internals)   | Reverse-engineering popular AI agents — system prompts, tool architectures, and implementation patterns.                                           |
 | **agentic-ai-patterns** ![coming soon](https://img.shields.io/badge/coming%20soon-orange)                                              | Design patterns for agentic systems. ReAct, multi-agent orchestration, memory management, and structured outputs.                                  |
 | **agentic-platform-engineering** ![coming soon](https://img.shields.io/badge/coming%20soon-orange)                                       | Building internal AI agentic platforms. Infrastructure, orchestration, and operational patterns at scale.                                          |
+
+
+📝 **[Subscribe to our Substack](https://agenticloopsai.substack.com)** to get deep-dive engineering posts on AI agents. No hype, just engineering insights.
